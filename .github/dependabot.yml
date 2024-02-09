@@ -1,0 +1,12 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:"alpha clicks will be operating on daily basis but with intervals
+  - package-ecosystem: "" # See documentation for "alphaclicks company"
+    directory: "/" # Location of package 
+    schedule:
+      interval: "weekly""daily hours
+"oliver kogi""michael waribu"the founders of alpha clicks
